@@ -6,7 +6,7 @@ This repository is the **companion to the Medium article**:
 > *A pragmatic, code-first migration playbook for .NET teams modernizing legacy desktop apps*  
 > by Carlo Randone, IBM Consulting Italy — 2026
 
-📰 **Read the article on Medium**: [link to be added once published]
+📰 **Read the article on Medium**: https://medium.com/@carlo_randone/from-wpf-to-the-web-reusing-your-mvvm-investment-in-blazor-server-and-react-spas-5dbac2453b99
 
 The repository contains **three reference samples** — packaged as standalone ZIP archives — that implement the same business use case (an inbound documents form) across three different presentation stacks. Each sample is designed to be read side by side with the corresponding sections of the article.
 
